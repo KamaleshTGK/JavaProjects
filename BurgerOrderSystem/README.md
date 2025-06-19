@@ -27,11 +27,15 @@ This is a fun and practical implementation of a **priority queue** using Java’
 1. **Compile:**
 ```bash
 javac BurgerOrderSystem.java
+```
 
-2.Run:
+2. **Run:**
+```bash
 java BurgerOrderSystem
+```
 
-3.Sample Input:
+3. **Sample Input:**
+```bash
 🍔 How many customers are ordering today? 3
 
 👤 Customer 1
@@ -45,21 +49,24 @@ Enter priority: 1
 👤 Customer 3
 Enter customer name: Charlie
 Enter priority: 3
+```
 
-4.Output:
+4. **Output:**
+```bash
 🍔 Serving Orders based on Priority:
 
 ➡️ Serving: Bob (Priority 1)
 ➡️ Serving: Alice (Priority 2)
 ➡️ Serving: Charlie (Priority 3)
+```
 
-📌 Notes
+📌 **Notes**
 --> Lower numeric values mean higher priority
 --> Internally uses a min-heap structure (PriorityQueue)
 --> Could be extended with a GUI or real-time restaurant kiosk logic
 
-👨‍💻 Author
-Kamalesh TGK
+👨‍💻 **Author:**
+**Kamalesh TGK**
 Learning DSA the tasty way 😋
 
 
