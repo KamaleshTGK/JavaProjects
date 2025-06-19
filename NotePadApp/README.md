@@ -42,15 +42,17 @@ java NotePadApp
 -->Type exit on a new line to save and quit
 
 💡 **Sample Output**
-Enter the folder path to save (e.g., src/Java.Basics/IO/notes): notes
-Enter  the filename (without extension): todo
-Start typing your content (type 'exit' to save & quit):
-- Buy groceries
-- Study Java I/O
-exit
-📝 File saved successfully at: notes/todo.txt
+```bash
+Enter the folder path to save (e.g., src/Java.Basics/IO/notes): notes<br>
+Enter  the filename (without extension): todo<br>
+Start typing your content (type 'exit' to save & quit):<br>
+- Buy groceries<br>
+- Study Java I/O<br>
+exit<br>
+📝 File saved successfully at: notes/todo.txt<br>
+```
 
-🚧 Notes
+🚧 **Notes**
 If the folder doesn't exist, it is automatically created.
 This is a beginner-friendly demonstration of file handling in Java.
 
