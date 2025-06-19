@@ -18,3 +18,8 @@ java PolymorphismDemo
 ```bash
 Woof!
 ```
+
+## 📚 **Concepts Covered**
+- Method Overriding
+- Runtime Polymorphism
+- Inheritance
