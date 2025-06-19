@@ -33,7 +33,7 @@ javac EmergencyRoomSystem.java
 java EmergencyRoomSystem
 ```
 
-3.**Example Input:**
+3. **Example Input:**
 ```bash
 How many patients to register? 3
 
@@ -46,7 +46,7 @@ Enter severity: 1
 Enter patient 3 name: Mark
 Enter severity: 4
 ```
-4.**Output:**
+4. **Output:**
 ```bash
 🚑 Treating patients based on severity:
 Treating patient: Alice (Severity: 1)
