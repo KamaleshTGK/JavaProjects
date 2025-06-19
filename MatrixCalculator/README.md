@@ -14,7 +14,7 @@ This project uses:
 - `Switch-case` for operation selection
 - Modular functions for each matrix operation
 
-# **▶️ How to Run:**
+## **▶️ How to Run:**
 
 1. **Compile the file:**
 ```bash
