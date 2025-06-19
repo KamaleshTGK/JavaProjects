@@ -27,25 +27,11 @@ This project simulates an emergency room triage system using Java's `PriorityQue
 1. **Compile:**
 ```bash
 javac EmergencyRoomSystem.java
-
-2. Run:
+```
+2. **Run:**
+```bash
 java EmergencyRoomSystem
 ```
 
-3. Example Input:
-How many patients to register? 3
 
-Enter patient 1 name: John
-Enter severity level (1=serious, higher=less serious): 2
 
-Enter patient 2 name: Alice
-Enter severity: 1
-
-Enter patient 3 name: Mark
-Enter severity: 4
-
-4. Ouput:
-🚑 Treating patients based on severity:
-Treating patient: Alice (Severity: 1)
-Treating patient: John (Severity: 2)
-Treating patient: Mark (Severity: 4)
