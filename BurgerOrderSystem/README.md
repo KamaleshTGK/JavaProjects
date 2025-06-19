@@ -66,7 +66,7 @@ Enter priority: 3
 --> Could be extended with a GUI or real-time restaurant kiosk logic
 
 👨‍💻 **Author:**
-**Kamalesh TGK**
+**Kamalesh TGK**<br>
 Learning DSA the tasty way 😋
 
 
