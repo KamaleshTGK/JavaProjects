@@ -49,7 +49,7 @@ Start typing your content (type 'exit' to save & quit):
 - Buy groceries
 - Study Java I/O
 exit
-📝 File saved successfully at: notes/todo.txt<br>
+📝 File saved successfully at: notes/todo.txt
 ```
 
 🚧 **Notes:** <br>
