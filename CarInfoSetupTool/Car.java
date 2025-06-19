@@ -1,8 +1,8 @@
-class Car2{
+class Car{
     String color;
     int speed;
 
-    Car2(String color, int speed) {
+    Car(String color, int speed) {
         this.color = color;
         this.speed = speed;
     }
