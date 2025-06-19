@@ -36,10 +36,10 @@ java NotePadApp
 ```
 
 3. **Follow prompts:**
--->Enter folder path (e.g., notes/)
--->Enter file name (e.g., mytext)
--->Start typing your notes
--->Type exit on a new line to save and quit
+-->Enter folder path (e.g., notes/)<br>
+-->Enter file name (e.g., mytext)<br>
+-->Start typing your notes<br>
+-->Type exit on a new line to save and quit<br>
 
 💡 **Sample Output**
 ```bash
