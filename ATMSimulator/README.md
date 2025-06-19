@@ -1,10 +1,10 @@
- 🏧 ATM Simulator (Java)
+# 🏧 ATM Simulator (Java)
 
 This is a simple command-line ATM simulator built in Java. It allows a user to interact with a simulated ATM using a PIN-based login system, and perform common banking operations like checking balance, depositing money, withdrawing cash, and viewing transaction history.
 
 ---
 
-📋 Features
+## 📋 Features
 
 - 🔐 PIN authentication (max 3 attempts)
 - 💰 Check account balance
@@ -15,7 +15,7 @@ This is a simple command-line ATM simulator built in Java. It allows a user to i
 
 ---
 
- 🧠 Concepts Used
+ ## 🧠 Concepts Used
 
 - Java `Scanner` for user input
 - `while` and `switch` for control flow
@@ -24,7 +24,7 @@ This is a simple command-line ATM simulator built in Java. It allows a user to i
 
 ---
 
- ▶️ How to Run
+ ## ▶️ How to Run
 
 1. **Compile** the program:
 ```bash
