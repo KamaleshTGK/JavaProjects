@@ -36,8 +36,8 @@ This project demonstrates various **pattern printing** techniques using Java. It
    java patternprinting
    ```
 3. **Sample Output:**
-   ```bash
-   * * * * * 
+```bash
+* * * * * 
 * * * * * 
 * * * * * 
 * * * * * 
@@ -64,7 +64,7 @@ This project demonstrates various **pattern printing** techniques using Java. It
 *       * 
 *       * 
 * * * * * 
-    ```
+```
 
 ## 📂 **File Structure**
 patternprinting.java — Contains all pattern printing methods inside one class.
