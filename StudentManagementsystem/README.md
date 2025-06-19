@@ -1,10 +1,10 @@
-🎓 Student Management System (Java + DSA)
+# 🎓 Student Management System (Java + DSA)
 
 A simple console-based student management system built using Java and `ArrayList`. This project showcases how dynamic data structures work by allowing users to add, remove, and list student names efficiently.
 
 ---
 
-📋 Features
+## 📋 Features
 
 - ➕ Add a new student to the list
 - ➖ Remove an existing student
@@ -13,7 +13,7 @@ A simple console-based student management system built using Java and `ArrayList
 
 ---
 
- 🧠 DSA Concepts Used
+ ## 🧠 DSA Concepts Used
 
 - ✅ `ArrayList` (dynamic array from Java Collections)
 - ✅ Basic CRUD operations on a linear list
@@ -23,16 +23,20 @@ A simple console-based student management system built using Java and `ArrayList
 
 ---
 
-▶️ How to Run
+## **▶️ How to Run**
 
 1. **Compile:**
 ```bash
 javac StudentManagementSystem.java
+```
 
-2.Run:
+2. **Run:**
+```bash
 java StudentManagementSystem
+```
 
-💡 Sample Flow:
+💡 **Sample Flow:**
+```bash
 --- Student Management Menu ---
 1. Add Student
 2. Remove Student
@@ -42,9 +46,10 @@ java StudentManagementSystem
 Enter your choice bud <3 : 1
 Enter student name to add: Alice
 ✅ Student added!
+```
 
-📚 Author
-Kamalesh TGK
+📚 **Author:** <br>
+**Kamalesh TGK**<br>
 Exploring DSA with Java 🚀
 
 
