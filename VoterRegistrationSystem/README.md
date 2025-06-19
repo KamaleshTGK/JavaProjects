@@ -49,9 +49,9 @@ Choose an option:
 ```
 
 🛡️ **Notes**<br>
---> HashSet ensures no voter can be registered twice<br>
---> Entries are case-sensitive (VTR123 ≠ vtr123)<br>
---> Can be extended with file-based storage, timestamps, or authentication
+- HashSet ensures no voter can be registered twice<br>
+- Entries are case-sensitive (VTR123 ≠ vtr123)<br>
+- Can be extended with file-based storage, timestamps, or authentication
 
 📚 **Author:**
 **Kamalesh TGK**<br>
