@@ -52,9 +52,9 @@ java SearchHistoryManager
 ```
 
 🧪 **Notes**<br>
---> LinkedHashSet automatically filters out repeated searches<br>
---> Case-sensitive input (e.g., Java ≠ java)<br>
---> Can be extended to support search timestamps or recent limits
+- LinkedHashSet automatically filters out repeated searches<br>
+- Case-sensitive input (e.g., Java ≠ java)<br>
+- Can be extended to support search timestamps or recent limits
 
 📚 **Author:**
 **Kamalesh TGK**<br>
