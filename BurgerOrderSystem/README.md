@@ -61,9 +61,9 @@ Enter priority: 3
 ```
 
 📌 **Notes**
---> Lower numeric values mean higher priority
---> Internally uses a min-heap structure (PriorityQueue)
---> Could be extended with a GUI or real-time restaurant kiosk logic
+- Lower numeric values mean higher priority
+- Internally uses a min-heap structure (PriorityQueue)
+- Could be extended with a GUI or real-time restaurant kiosk logic
 
 👨‍💻 **Author:**
 **Kamalesh TGK**<br>
