@@ -1,6 +1,3 @@
-
-
-
 import java.util.Scanner;
 import java.util.LinkedHashSet;
 public class SearchHistoryManager {
