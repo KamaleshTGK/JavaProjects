@@ -29,13 +29,18 @@ This is a simple command-line ATM simulator built in Java. It allows a user to i
 1. **Compile** the program:
 ```bash
 javac atmsimulator.java
+```
 
-2.Run the program
+2. **Run the program:**
+```bash
 java atmsimulator
+```
 🔑 Default PIN: 6332
 💵 Starting balance: ₹1000
 
-🧪 Sample Flow
+
+🧪 **Sample Flow**
+```bash
 Enter your 4-digit PIN: 
 PIN verified. Access Granted.
 
@@ -45,12 +50,15 @@ PIN verified. Access Granted.
 3. Withdraw
 4. Exit
 5. View Transaction History
+```
 
-🛡️ Note
+🛡️ **Note**
+bash
 This is a beginner-level simulation intended for learning basic Java programming concepts. 
 It does not represent real-world security practices and should not be used in production 
 environments.
 
-📚 Author
-Kamalesh TGK
+📚 **Author**
+**Kamalesh TGK**
 Learning Java & Cybersecurity 💻🔐
+```
