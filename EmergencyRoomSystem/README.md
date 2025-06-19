@@ -46,6 +46,15 @@ Enter severity: 1
 Enter patient 3 name: Mark
 Enter severity: 4
 ```
-
+4.**Output:**
+```bash
+🚑 Treating patients based on severity:
+Treating patient: Alice (Severity: 1)
+Treating patient: John (Severity: 2)
+Treating patient: Mark (Severity: 4)
+```
+**👨‍⚕️ Author**
+Kamalesh TGK
+Learning Java DSA through real-world logic 💡
 
 
