@@ -54,9 +54,8 @@ Treating patient: John (Severity: 2)
 Treating patient: Mark (Severity: 4)
 ```
 **👨‍⚕️ Author:**
-```bash
-Kamalesh TGK
+**Kamalesh TGK**<br>
 Learning Java DSA through real-world logic 💡
-```
+
 
 
