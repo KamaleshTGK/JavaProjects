@@ -48,8 +48,7 @@ Guest logged out.
 ```
 ## 📁 **Note**
 All supporting classes (Admin, Guest, User, Auth) are inside the same file.
-They will be compiled automatically — no need to save them separately. (For your reference, the
-classes are uploaded).
+They will be compiled automatically — no need to save them separately.
 
 👨‍💻 **Author:**
 **Kamalesh TGK**<br>
