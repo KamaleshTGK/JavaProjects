@@ -21,7 +21,7 @@ This project uses:
 javac MatrixCalculator.java
 
 2. Run it:
-```bash
+
 java MatrixCalculator
 
 🔎 Sample Matrices Used
