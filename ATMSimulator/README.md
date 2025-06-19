@@ -52,7 +52,7 @@ PIN verified. Access Granted.
 5. View Transaction History
 ```
 
-🛡️ **Note**
+🛡️ **Note**<br>
 This is a beginner-level simulation intended for learning basic Java programming concepts. 
 It does not represent real-world security practices and should not be used in production 
 environments.
