@@ -1,10 +1,10 @@
-## 📝 NotePadApp – Java I/O Project
+# 📝 NotePadApp – Java I/O Project
 
 A simple console-based notepad application in Java using File I/O. This app lets you create and save text files by typing content directly into the console, and stores them in a user-defined folder and filename.
 
 ---
 
- # 📋 Features
+ ## 📋 Features
 
 - 📂 Allows custom folder path and filename input
 - 🧠 Automatically creates folder if it doesn't exist
