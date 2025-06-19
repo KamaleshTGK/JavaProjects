@@ -1,10 +1,10 @@
- 📝 NotePadApp – Java I/O Project
+## 📝 NotePadApp – Java I/O Project
 
 A simple console-based notepad application in Java using File I/O. This app lets you create and save text files by typing content directly into the console, and stores them in a user-defined folder and filename.
 
 ---
 
- 📋 Features
+ # 📋 Features
 
 - 📂 Allows custom folder path and filename input
 - 🧠 Automatically creates folder if it doesn't exist
@@ -14,7 +14,7 @@ A simple console-based notepad application in Java using File I/O. This app lets
 
 ---
 
- 🧠 Concepts Used
+ # 🧠 Concepts Used
 
 - Java `Scanner` for user input
 - `File`, `FileWriter`, and `BufferedWriter` from `java.io`
@@ -23,22 +23,25 @@ A simple console-based notepad application in Java using File I/O. This app lets
 
 ---
 
- ▶️ How to Run
+ ## **▶️ How to Run**
 
 1. **Compile:**
 ```bash
 javac NotePadApp.java
+```
 
-2. Run:
+2. **Run:**
+```bash
 java NotePadApp
+```
 
-3. Follow prompts:
+3. **Follow prompts:**
 -->Enter folder path (e.g., notes/)
 -->Enter file name (e.g., mytext)
 -->Start typing your notes
 -->Type exit on a new line to save and quit
 
-💡 Sample Output
+💡 **Sample Output**
 Enter the folder path to save (e.g., src/Java.Basics/IO/notes): notes
 Enter  the filename (without extension): todo
 Start typing your content (type 'exit' to save & quit):
@@ -51,6 +54,6 @@ exit
 If the folder doesn't exist, it is automatically created.
 This is a beginner-friendly demonstration of file handling in Java.
 
-👨‍💻 Author
-Kamalesh TGK
+👨‍💻 **Author:**
+**Kamalesh TGK**<br>
 Learning Java & Cybersecurity 💻🔐
