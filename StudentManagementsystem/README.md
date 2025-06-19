@@ -48,7 +48,7 @@ Enter student name to add: Alice
 ✅ Student added!
 ```
 
-📚 **Author:** <br>
+📚 **Author:** 
 **Kamalesh TGK**<br>
 Exploring DSA with Java 🚀
 
