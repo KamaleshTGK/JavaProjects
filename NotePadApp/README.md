@@ -48,7 +48,7 @@ Enter  the filename (without extension): todo
 Start typing your content (type 'exit' to save & quit):
 - Buy groceries
 - Study Java I/O
-exit<br>
+exit
 📝 File saved successfully at: notes/todo.txt<br>
 ```
 
