@@ -30,6 +30,7 @@ javac EmergencyRoomSystem.java
 
 2. Run:
 java EmergencyRoomSystem
+```
 
 3. Example Input:
 How many patients to register? 3
