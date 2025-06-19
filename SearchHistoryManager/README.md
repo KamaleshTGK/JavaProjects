@@ -51,11 +51,11 @@ java SearchHistoryManager
 -  cybersecurity basics
 ```
 
-🧪 **Notes**
+🧪 **Notes**<br>
 --> LinkedHashSet automatically filters out repeated searches<br>
 --> Case-sensitive input (e.g., Java ≠ java)<br>
 --> Can be extended to support search timestamps or recent limits
 
-📚 **Author**
+📚 **Author:**
 **Kamalesh TGK**<br>
 Learning Java & Cybersecurity 💻🔐
