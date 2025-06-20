@@ -46,5 +46,4 @@ Not found.
 Contributions are always welcome!  
 If you have ideas for improvements or enhancements, feel free to fork this repository and open a pull request.
 
-## 📜 License
-This project is open source and available under the [MIT License](LICENSE).
+
