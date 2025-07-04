@@ -42,7 +42,7 @@ Enter a paragraph:
 Java is fun. Java is powerful. Java is everywhere.
 
 Total words: 7
-<p style='color:red'>Vowels: 15
+Vowels: 15
 Consonants: 19
 Most frequent word: java (3 times)
 Enter word to replace: java
